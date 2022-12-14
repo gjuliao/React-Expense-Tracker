@@ -1,6 +1,6 @@
 # 📖 [React Expense Tracker] <a name="about-project"></a>
 
-**[React Expense Tracker]** Is a react app to keep track of expenses.
+**React Expense Tracker** Is a react app to keep track of expenses. It uses useState, AppReducer and GlobalState to manage the variations with in the app.  UI allow you to remove transactions but not to edit them.
 
 ## 🛠 Built With <a name="built-with"></a>
 
